@@ -226,10 +226,12 @@ body {
 .buttonLink__link-1 {
   grid-row: 1;
   grid-column: 1;
+  opacity: 0;
 }
 .buttonLink__link-2 {
   grid-row: 1;
   grid-column: 2;
+  opacity: 0;
 }
 .buttonLink__link-3 {
   grid-row: 2;

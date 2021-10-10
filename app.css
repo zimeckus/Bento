@@ -33,9 +33,9 @@
     to make the filter to your own */
 
   --imgbg: url(assets/background.jpg);
-  --imgcol: linear-gradient(
+  /*--imgcol: linear-gradient(
     rgba(255, 255, 255, 0.7),
-    rgba(255, 255, 255, 0.7)
+    rgba(255, 255, 255, 0.7)*/
   ); /* Filter color */
 }
 
@@ -70,7 +70,7 @@
 }
 
 .withImageBackground {
-  background-image: var(--imgcol), var(--imgbg);
+  background-image: /*var(--imgcol),*/ var(--imgbg);
   background-size: cover;
 }
 

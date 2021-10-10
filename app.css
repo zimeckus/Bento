@@ -18,12 +18,12 @@
   --iconsize: 3vh;
 
   /* Light theme  */
-  /*--accent: #61b0f1; /* Hover color */
-  /*--bg: #f5f5f5; /* Background color */
-  /*--sbg: #e4e6e6; /* Cards color */
+  --accent: #61b0f1; /* Hover color */
+  --bg: #f5f5f5; /* Background color */
+  --sbg: #e4e6e6; /* Cards color */
 
-  /*--fg: #3a3a3a; /* Foreground color */
-  /*--sfg: #3a3a3a; /* Sceondary Foreground color */
+  --fg: #3a3a3a; /* Foreground color */
+  --sfg: #3a3a3a; /* Sceondary Foreground color */
 
   /* Image background  */
 
@@ -33,24 +33,24 @@
     to make the filter to your own */
 
   --imgbg: url(assets/background.jpg);
-  /*--imgcol: linear-gradient(
+  --imgcol: linear-gradient(
     rgba(255, 255, 255, 0.7),
-    rgba(255, 255, 255, 0.7)*/
+    rgba(255, 255, 255, 0.7)
   ); /* Filter color */
 }
 
 /* Dark theme  */
-/*.darktheme {
+.darktheme {
   --accent: #61b0f1; /* Hover color */
-/*  --bg: #19171a; /* Background color */
-/*  --sbg: #201e21; /* Cards color */
-/*  --fg: #d8dee9; /* Foreground color */
-/*  --sfg: #3a3a3a; /* Secondary Foreground color */
-/*  --imgcol: linear-gradient(
+  --bg: #19171a; /* Background color */
+  --sbg: #201e21; /* Cards color */
+  --fg: #d8dee9; /* Foreground color */
+  --sfg: #3a3a3a; /* Secondary Foreground color */
+  --imgcol: linear-gradient(
     rgba(0, 0, 0, 0.85),
     rgba(0, 0, 0, 0.85)
   ); /* Filter color */
-/*}
+}
 
 /* S T Y L E S */
 
@@ -177,7 +177,7 @@ body {
 }
 
 #greetings {
-  font-size: var(--fss);
+  font-size: var(--fsm);
   color: var(--fg);
 }
 
@@ -309,7 +309,7 @@ body {
   }
 
   #greetings {
-    font-size: var(--fss);
+    font-size: var(--fsm);
   }
 
   .list {

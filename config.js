@@ -46,15 +46,15 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'Mail',
+      name: 'Gmail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com/',
     },
     {
       id: '3',
-      name: 'Todoist',
+      name: 'Protonmail',
       icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://mail.protonmail.com/',
     },
     {
       id: '4',
@@ -65,17 +65,11 @@ const CONFIG = {
     {
       id: '5',
       name: 'Whatsapp',
-      icon: 'whatsapp',
+      icon: 'bookmark',
       link: 'https://web.whatsapp.com/',
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
-    },
-    {
-      id: '7',
       name: 'Youtube',
       icon: 'youtube',
       link: 'https://youtube.com/',

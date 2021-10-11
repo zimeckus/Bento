@@ -64,15 +64,21 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'bookmark',
-      link: 'https://reddit.com',
+      name: 'Whatsapp',
+      icon: 'whatsapp',
+      link: 'https://web.whatsapp.com/',
     },
     {
       id: '6',
       name: 'Odysee',
       icon: 'youtube',
       link: 'https://odysee.com/',
+    },
+    {
+      id: '7',
+      name: 'Youtube',
+      icon: 'youtube',
+      link: 'https://youtube.com/',
     },
   ],
 

@@ -53,7 +53,7 @@ const CONFIG = {
     {
       id: '3',
       name: 'Protonmail',
-      icon: 'trello',
+      icon: 'mail',
       link: 'https://mail.protonmail.com/',
     },
     {
